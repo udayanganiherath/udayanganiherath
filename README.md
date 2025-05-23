@@ -1,32 +1,113 @@
-<h1 align="center">Hey! Nice to see you.😎</h1>
-<h3 align="left">About Me:</h3>
+<h1 align="center">👋 Hello there, Nice to See You!</h1>
+<h3 align="center">🚀 Final Year IT Undergraduate | 🧪 QA Engineer | 🐞 Bug Whisperer</h3>
 
-<img align="right" alt="coding" width="250" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<p align="center">
+  <img src="https://media.tenor.com/6Ngj1B7Rq-sAAAAd/quality-assurance-qa.gif" width="300" alt="QA Testing Animation" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udayanganiherath&label=Profile%20views&color=0e75b6&style=flat" alt="udayanganiherath" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=udayanganiherath&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udayanganiherath" alt="udayanganiherath" /></a> </p>
+---
 
-- 🔭 I’m currently reading for **B.Sc (Hons.) in Information Technology and Management in University of Moratuwa, Sri Lanka.**
+### 🌟 About Me
 
-- 👯 I’m currently working on **my industry-based project.**
+Hi! I’m **Udayangani Herath**, an enthusiastic final-year undergraduate pursuing **B.Sc. (Hons) in Information Technology and Management** at the **University of Moratuwa**, Sri Lanka. I'm deeply passionate about **ensuring software works flawlessly**, and I believe **every bug tells a story—and I’m here to uncover it!**
 
-- 🤝 I’m looking for help with **my projects.**
+- 👩‍💻 On a mission to become a rockstar **Quality Assurance Engineer**
+- 🕵️‍♀️ Skilled in both **manual and automated testing** with academic + industry exposure
+- 🎯 Dreaming of working in collaborative teams that build bug-free magic
+- 💡 Fun fact: I treat test cases like treasure maps—and bugs like hidden gold 🪙
 
-- 😄Pronouns: [she/her](she/her)
+---
 
-- ⚡ Fun fact **I am funny😜**
+### 🧰 QA Toolkit
 
+#### 🧪 Testing Expertise
+- ✅ Manual Testing (Industry Projects)
+- ✅ Test Planning & Design
+- ✅ Bug Reporting & Tracking
+- ✅ Regression & Functional Testing
+- ✅ API Testing (Postman)
+- ✅ Automation Testing (Selenium)
 
+#### 🛠️ Tools & Technologies
+<p align="left">
+  <!-- Selenium -->
+  <a href="https://www.selenium.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" />
+  </a>
+  <!-- Cucumber -->
+  <a href="https://cucumber.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" />
+  </a>
+  <!-- TestNG -->
+  <a href="https://testng.org" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="TestNG" width="40" />
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
+  </a>
+  <!-- REST Assured -->
+  <a href="https://rest-assured.io" target="_blank">
+    <img src="https://rest-assured.io/img/logo-transparent.png" alt="REST Assured" width="80" style="background:white;padding:5px;border-radius:5px;" />
+  </a>
+  <!-- Postman -->
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+  </a>
+  <!-- JIRA -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="JIRA" width="40" />
+  </a>
+  <!-- Azure Boards -->
+  <a href="https://azure.microsoft.com/services/devops/boards/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Boards" width="40" />
+  </a>
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" />
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udayanganiherath&show_icons=true&locale=en&layout=compact" alt="udayanganiherath" /><br></p>
+### 🧠 What I Offer
 
+- 📘 **Up-to-date testing skills** from academic and internship experience  
+- 🏆 **Real project experience** with both manual and API testing  
+- 🧩 **Detail-oriented mindset** – I spot the little things others miss  
+- ⚙️ **Automation enthusiast**, constantly improving and expanding my test arsenal  
+- 🌍 **Collaborative and curious** – always open to feedback, growth, and new tools  
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=udayanganiherath&show_icons=true&locale=en" alt="udayanganiherath" /><br></p>
+---
 
+### 💼 Featured Projects
 
+- 🔹 **Automated Testing Framework** (Selenium) – Built a basic automation suite   
+- 🔹 **API Testing Suite** – Postman collections for validating REST APIs  
+- 🔹 **Manual Testing Projects** – Real-world testing during internship and academic coursework  
+- 🔹 **Database Testing** – Verified data accuracy with SQL queries  
+- 🔹 **Test Documentation** – Wrote test plans, cases, and bug reports for university systems  
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=udayanganiherath&" alt="udayanganiherath" /></p>
+---
+
+### 📬 Let’s Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/udayangani-herath-746b07261/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+  </a>
+  <a href="mailto:udayanganiherath20@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>“A good QA doesn't just test software — they test possibilities.”</strong> 💡<br />
+  🌈 I'm currently open to **entry-level QA roles** and **mentorship opportunities**. Let’s build quality together!
+</p>
