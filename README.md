@@ -13,12 +13,12 @@
 
 ### 🌟 About Me
 
-Hi! I’m **Udayangani Herath**, an enthusiastic final-year undergraduate pursuing **B.Sc. (Hons) in Information Technology and Management** at the **University of Moratuwa**, Sri Lanka. I'm deeply passionate about **ensuring software works flawlessly**, and I believe **every bug tells a story—and I’m here to uncover it!**
+Hi! I’m **Udayangani Herath**, an enthusiastic final-year undergraduate pursuing **B.Sc. (Hons) in Information Technology and Management** at the **University of Moratuwa**, Sri Lanka. I'm deeply passionate about **ensuring software works flawlessly**, and I believe **every bug tells a story and I’m here to uncover it!**
 
 - 👩‍💻 On a mission to become a rockstar **Quality Assurance Engineer**
 - 🕵️‍♀️ Skilled in both **manual and automated testing** with academic + industry exposure
 - 🎯 Dreaming of working in collaborative teams that build bug-free magic
-- 💡 Fun fact: I treat test cases like treasure maps—and bugs like hidden gold 🪙
+- 💡 I treat test cases like treasure maps and bugs like hidden gold 😜
 
 ---
 
@@ -26,7 +26,6 @@ Hi! I’m **Udayangani Herath**, an enthusiastic final-year undergraduate pursui
 
 #### 🧪 Testing Expertise
 - ✅ Manual Testing (Industry Projects)
-- ✅ Test Planning & Design
 - ✅ Bug Reporting & Tracking
 - ✅ Regression & Functional Testing
 - ✅ API Testing (Postman)
@@ -44,7 +43,7 @@ Hi! I’m **Udayangani Herath**, an enthusiastic final-year undergraduate pursui
   </a>
   <!-- TestNG -->
   <a href="https://testng.org" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="TestNG" width="40" />
+    <img src="https://testng.org/img/testng-logo.png" alt="TestNG" width="40" />
   </a>
   <!-- MySQL -->
   <a href="https://www.mysql.com" target="_blank">
@@ -52,15 +51,11 @@ Hi! I’m **Udayangani Herath**, an enthusiastic final-year undergraduate pursui
   </a>
   <!-- REST Assured -->
   <a href="https://rest-assured.io" target="_blank">
-    <img src="https://rest-assured.io/img/logo-transparent.png" alt="REST Assured" width="80" style="background:white;padding:5px;border-radius:5px;" />
+    <img src="https://rest-assured.io/img/logo-transparent.png" alt="REST Assured" width="50" style="background:white;padding:5px;border-radius:5px;" />
   </a>
   <!-- Postman -->
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  </a>
-  <!-- JIRA -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="JIRA" width="40" />
   </a>
   <!-- Azure Boards -->
   <a href="https://azure.microsoft.com/services/devops/boards/" target="_blank">
@@ -98,7 +93,7 @@ Hi! I’m **Udayangani Herath**, an enthusiastic final-year undergraduate pursui
 
 <p align="left">
   <a href="https://www.linkedin.com/in/udayangani-herath-746b07261/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" />
   </a>
   <a href="mailto:udayanganiherath20@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" />
@@ -109,5 +104,5 @@ Hi! I’m **Udayangani Herath**, an enthusiastic final-year undergraduate pursui
 
 <p align="center">
   <strong>“A good QA doesn't just test software — they test possibilities.”</strong> 💡<br />
-  🌈 I'm currently open to **entry-level QA roles** and **mentorship opportunities**. Let’s build quality together!
+  🌈 Ready to turn my passion for quality into real-world impact! Let’s build quality together!
 </p>
